@@ -1,0 +1,7 @@
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\bin\Debug\Gameransanmoi.exe.config
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\bin\Debug\Gameransanmoi.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\bin\Debug\Gameransanmoi.pdb
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\obj\Debug\Gameransanmoi.csproj.AssemblyReference.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\obj\Debug\Gameransanmoi.csproj.CoreCompileInputs.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\obj\Debug\Gameransanmoi.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham2\Gameransanmoi\Gameransanmoi\obj\Debug\Gameransanmoi.pdb
